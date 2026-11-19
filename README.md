@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="FlowPayroll International Payment Use Cases" src="https://github.com/user-attachments/assets/8f3b3497-4c82-4ec8-95b2-3ba4af33f0a0" />
+
 # FlowPayroll Payment Use Cases
 
 > Practical examples of how freelancers and independent contractors can manage international client payments with **[FlowPayroll](https://flowpayroll.net)**. The workflows cover collecting USD or EUR payments and requesting withdrawals to a local bank or a USDT wallet on supported networks, subject to account eligibility and review.
